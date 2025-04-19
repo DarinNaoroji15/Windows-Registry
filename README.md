@@ -1,3 +1,3 @@
-# Windows-Registry
+# Windows Registry
 
 In Progress...
